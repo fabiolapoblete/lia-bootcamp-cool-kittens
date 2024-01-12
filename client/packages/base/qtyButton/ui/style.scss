@@ -1,0 +1,9 @@
+@use '@zocom/styles' as *;
+
+.button--quantity {
+    background-color: $shade24Dark;
+    color: $coal;
+    @include small-circle;
+    @include fontsizeLarge;
+    @include center;
+}
