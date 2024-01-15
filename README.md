@@ -4,6 +4,9 @@
 
 **Bootcamp project for ZoCom LIA**
 
+## Länk till YUM-YUM
+[lia-yumyum.vercel.app](https://lia-yumyum.vercel.app/)
+
 ## Syfte
 
 Syftet med ZoCom LIA Bootcamp är:
